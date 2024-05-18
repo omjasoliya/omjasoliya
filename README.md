@@ -1,6 +1,5 @@
 ![logo](https://github.com/omjasoliya/omjasoliya/blob/main/banner.jpg)
-
-<h3 align="center">A learner on Mission ....</h3>
+<h1 align="center">A learner on Mission ....👋</h1>
 
 <img align="right" alt="coding" width="400" src = "https://camo.githubusercontent.com/97cb98b662f174dde769da3eb2370e56d46bc30bd056f1ed2967472386493521/68747470733a2f2f6d656469612e74656e6f722e636f6d2f663169495138696d74464541414141642f636f6d70757461646f72612e676966">
 
