@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Machine Learnig**
 
-- 👯 I’m looking to collaborate on **AI Projects**
+- 👯 I’m looking to collaborate on **AI - ML - DL - LLM Projects**
 
 - 👨‍💻 All of my projects are available at [https://omjasoliya.web.app](https://omjasoliya.web.app)
 
